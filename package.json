@@ -51,7 +51,7 @@
     "stylelint-webpack-plugin": "0.7.0",
     "url-loader": "0.5.8",
     "webpack": "1.14.0",
-    "webpack-dashboard": "0.2.1",
+    "webpack-dashboard": "3.3.7",
     "webpack-dev-server": "1.16.3",
     "webpack-fail-plugin": "1.0.6",
     "worker-loader": "0.7.1",
