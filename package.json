@@ -8,7 +8,7 @@
     "deploy-staging": "cross-env NODE_ENV=staging webpack --optimize-minimize --no-color --display-error-details"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.17.3",
     "highlight.js": "9.10.0",
     "history": "1.17.0",
     "react": "0.14.8",
