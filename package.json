@@ -30,7 +30,7 @@
     "cross-env": "3.2.4",
     "css-loader": "0.23.1",
     "ejs-render-loader": "1.0.0",
-    "eslint": "1.10.3",
+    "eslint": "10.3.0",
     "eslint-loader": "1.6.3",
     "eslint-plugin-react": "3.16.1",
     "exports-loader": "0.6.4",
